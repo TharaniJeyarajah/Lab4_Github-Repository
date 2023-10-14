@@ -1,0 +1,11 @@
+C:\Users\theva\source\repos\NUnitDemonstration\bin\Debug\net6.0\NUnitDemonstration.deps.json
+C:\Users\theva\source\repos\NUnitDemonstration\bin\Debug\net6.0\NUnitDemonstration.dll
+C:\Users\theva\source\repos\NUnitDemonstration\bin\Debug\net6.0\NUnitDemonstration.pdb
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\NUnitDemonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\NUnitDemonstration.AssemblyInfoInputs.cache
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\NUnitDemonstration.AssemblyInfo.cs
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\NUnitDemonstration.csproj.CoreCompileInputs.cache
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\NUnitDemonstration.dll
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\refint\NUnitDemonstration.dll
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\NUnitDemonstration.pdb
+C:\Users\theva\source\repos\NUnitDemonstration\obj\Debug\net6.0\ref\NUnitDemonstration.dll
